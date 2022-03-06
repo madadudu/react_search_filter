@@ -1,6 +1,6 @@
 # react_search_filter
 
-client folder /
+client folder 
 Getting Started with Create React App
 This project was bootstrapped with Create React App.
 
